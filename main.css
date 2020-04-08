@@ -1,0 +1,8 @@
+.my-dynamic-class {
+	color: salmon;
+	text-decoration: none; /* No underline */
+	font-weight: bold;
+	font-family: Arial, sans-sefif;
+	display: inline-block;
+	background-color: black;
+}
